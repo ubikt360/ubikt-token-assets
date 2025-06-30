@@ -1,0 +1,21 @@
+{
+  "name": "Ubikt Token List",
+  "logoURI": "https://raw.githubusercontent.com/ubikt360/ubikt-token-assets/main/logo.png",
+  "keywords": ["ubikt", "rewards", "colombia"],
+  "timestamp": "2025-06-30T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0x1023cD1b149bAb191668d459422334488723c315",
+      "name": "Ubikt",
+      "symbol": "UBIKT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/<TU-USUARIO>/ubikt-token-assets/main/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
