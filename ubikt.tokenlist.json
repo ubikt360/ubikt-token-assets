@@ -6,11 +6,11 @@
   "tokens": [
     {
       "chainId": 42161,
-      "address": "0x1023cD1b149bAb191668d459422334488723c315",
+      "address": "0x01479DA0804EB4cf70CF1F83E0c572365c1c68e5",
       "name": "Ubikt",
       "symbol": "UBIKT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/<TU-USUARIO>/ubikt-token-assets/main/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/ubikt360/ubikt-token-assets/main/logo.png"
     }
   ],
   "version": {
